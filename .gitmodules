@@ -16,3 +16,6 @@
 [submodule "ReactReduxCounter"]
 	path = ReactReduxCounter
 	url = https://github.com/michael-steinert-repository/ReactReduxCounter.git
+[submodule "ReactTodoApi"]
+	path = ReactTodoApi
+	url = https://github.com/michael-steinert-repository/ReactTodoApi.git
