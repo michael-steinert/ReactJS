@@ -1,3 +1,6 @@
 [submodule "ReactTypeScriptEssentials"]
 	path = ReactTypeScriptEssentials
 	url = https://github.com/michael-steinert-repository/ReactTypeScriptEssentials.git
+[submodule "ReactJsEssentials2021"]
+	path = ReactJsEssentials2021
+	url = https://github.com/michael-steinert-repository/ReactJsEssentials2021.git
