@@ -10,3 +10,6 @@
 [submodule "ReactReduxToolkit"]
 	path = ReactReduxToolkit
 	url = https://github.com/michael-steinert-repository/ReactReduxToolkit.git
+[submodule "ReactReduxSagaUserCounter"]
+	path = ReactReduxSagaUserCounter
+	url = https://github.com/michael-steinert-repository/ReactReduxSagaUserCounter.git
