@@ -7,3 +7,6 @@
 [submodule "ReactTestingMochaChai"]
 	path = ReactTestingMochaChai
 	url = https://github.com/michael-steinert-repository/ReactTestingMochaChai.git
+[submodule "ReactReduxToolkit"]
+	path = ReactReduxToolkit
+	url = https://github.com/michael-steinert-repository/ReactReduxToolkit.git
