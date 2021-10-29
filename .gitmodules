@@ -22,3 +22,6 @@
 [submodule "ReactMaterialUiEssentials"]
 	path = ReactMaterialUiEssentials
 	url = https://github.com/michael-steinert-repository/ReactMaterialUiEssentials.git
+[submodule "ReactReduxCyrptocurrencyApp"]
+	path = ReactReduxCyrptocurrencyApp
+	url = https://github.com/michael-steinert-repository/ReactReduxCyrptocurrencyApp.git
